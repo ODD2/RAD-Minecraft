@@ -83,11 +83,6 @@ minecraft:villager
 minecraft:ender_crystal
 adhooks:hookshot
 aquaculture:custom_fish_hook
-quark:chest_passenger
-quark:pirate
-quark:wraith
-quark:dweller
-quark:ashen
 quark:seat
 quark:arrow_ender
 quark:arrow_explosive
@@ -95,6 +90,11 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
+quark:pirate
+quark:wraith
+quark:dweller
+quark:ashen
+quark:chest_passenger
 quark:flat_item_frame
 quark:colored_item_frame
 quark:glass_item_frame
